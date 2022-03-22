@@ -1,15 +1,24 @@
-@prefix dcat:    <http://www.w3.org/ns/dcat#> .
-@prefix dct:     <http://purl.org/dc/terms/> .
-@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/1d000/resource/1r000>
+        a       <http://www.w3.org/ns/dcat#Distribution> ;
+        <http://purl.org/dc/terms/description>
+                "A spreadsheet detailing the IPC metrics used in SJH" ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Letrics and Data Streams" .
 
-<http://data.some.org/catalog/datasets/1>
-      a       dcat:Dataset ;
-      dct:title "Dataset 1" ;
-      dcat:distribution
-              <http://data.some.org/catalog/datasets/1/d/1> .
+<https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b>
+        a       <http://xmlns.com/foaf/0.1/Organization> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Dublin City University" .
 
-
-<http://data.some.org/catalog/datasets/1/d/1>
-      a       dcat:Distribution ;
-      dct:title "Distribution for dataset 1" ;
-      dcat:accessURL <http://data.some.org/catalog/datasets/1/downloads/1.csv> .
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/1d000>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/description>
+                "This is a test dataset harvest using the CKAN RDF harvester" ;
+        <http://purl.org/dc/terms/identifier>
+                "1d000" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+        <http://purl.org/dc/terms/title>
+                "Test DCAT Harvest dataset" ;
+        <http://www.w3.org/ns/dcat#distribution>
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/1d000/resource/1r000> .
