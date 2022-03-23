@@ -1,28 +1,28 @@
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/54F4D89A>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
                 "(i.e. CVAD & Hickman=gauze x frist 24 hours, Biopatch/Tegaderm thereafter: PICC=Securing device, tegaderm & biopatch: Port-a-cath=Huber needle (if present) covered with transparent dressing) " ;
         <http://purl.org/dc/terms/identifier>
-                "54F4D89A" ;
+                "08FDEB41" ;
         <http://purl.org/dc/terms/publisher>
                 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
         <http://purl.org/dc/terms/title>
                 "Aherence to Care Bundle: Central Line Devices / Central venous access devices (CVADs) or central venous catheters (CVCs) - Is the appropriate CVAD dressing insitu (observation)?" ;
         <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D3> .
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41/resource/E498C2D7> .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/5E2ABB98>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
-                "(iView-Lines & Devices-CVAD - click into 'CVAD Line Care')" ;
+                "Automatic download from EPR into Power BI based on whether certain fields were filled or not" ;
         <http://purl.org/dc/terms/identifier>
-                "5E2ABB98" ;
+                "02D3869E" ;
         <http://purl.org/dc/terms/publisher>
                 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
         <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D4> .
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E/resource/E498C2D7> .
 
-<https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D7>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C/resource/E498C2D7>
         a       <http://www.w3.org/ns/dcat#Distribution> ;
         <http://purl.org/dc/terms/description>
                 "De-identified ample of PCHCAI metric data" ;
@@ -33,40 +33,84 @@
         <http://www.w3.org/ns/dcat#accessURL>
                 "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.csv" .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/C317C25E>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41/resource/E498C2D7>
+        a       <http://www.w3.org/ns/dcat#Distribution> ;
+        <http://purl.org/dc/terms/description>
+                "De-identified ample of PCHCAI metric data" ;
+        <http://purl.org/dc/terms/format>
+                "CSV" ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.csv" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
-                "Automatic download from EPR into Power BI based on whether certain fields were filled or not" ;
+                "Average of above 3 scores" ;
         <http://purl.org/dc/terms/identifier>
-                "C317C25E" ;
+                "7697EDB6" ;
         <http://purl.org/dc/terms/publisher>
                 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
         <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D5> .
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6/resource/E498C2D7> .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/2DBAA4C1>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/description>
+                "(iView-Lines & Devices-CVAD - click into 'CVAD Line Care')" ;
+        <http://purl.org/dc/terms/identifier>
+                "D02D1C6E" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+        <http://www.w3.org/ns/dcat#distribution>
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E/resource/E498C2D7> .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E/resource/E498C2D7>
+        a       <http://www.w3.org/ns/dcat#Distribution> ;
+        <http://purl.org/dc/terms/description>
+                "De-identified ample of PCHCAI metric data" ;
+        <http://purl.org/dc/terms/format>
+                "CSV" ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.csv" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6/resource/E498C2D7>
+        a       <http://www.w3.org/ns/dcat#Distribution> ;
+        <http://purl.org/dc/terms/description>
+                "De-identified ample of PCHCAI metric data" ;
+        <http://purl.org/dc/terms/format>
+                "CSV" ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.csv" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E/resource/E498C2D7>
+        a       <http://www.w3.org/ns/dcat#Distribution> ;
+        <http://purl.org/dc/terms/description>
+                "De-identified ample of PCHCAI metric data" ;
+        <http://purl.org/dc/terms/format>
+                "CSV" ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.csv" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
                 "Rate of CVAD infections per 1000 catheter days  in Ward/Unit" ;
         <http://purl.org/dc/terms/identifier>
-                "2DBAA4C1" ;
+                "7E267D8C" ;
         <http://purl.org/dc/terms/publisher>
                 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
         <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D7> .
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C/resource/E498C2D7> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b>
         a       <http://xmlns.com/foaf/0.1/Organization> ;
         <http://xmlns.com/foaf/0.1/name>
                 "Dublin City University" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/FAB145FA>
-        a       <http://www.w3.org/ns/dcat#Dataset> ;
-        <http://purl.org/dc/terms/description>
-                "Average of above 3 scores" ;
-        <http://purl.org/dc/terms/identifier>
-                "FAB145FA" ;
-        <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/resource/E498C2D6> .
