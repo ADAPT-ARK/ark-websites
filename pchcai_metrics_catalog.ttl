@@ -115,11 +115,4 @@
         <http://xmlns.com/foaf/0.1/name>
                 "Dublin City University" .
 
-<https://openark.adaptcentre.ie/PCHCAIMetricsAndDataStreams>
-        a       <http://www.w3.org/ns/dcat#Catalog> ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data Streams" ;
-        <http://www.w3.org/ns/dcat#dataset>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41> ;
-        <http://www.w3.org/ns/dcat#description>
-                "A catalog of PCHCAI metrics and data streams used in St. James's Hospital" .
+
