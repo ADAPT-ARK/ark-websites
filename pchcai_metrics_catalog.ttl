@@ -7,11 +7,9 @@
         <http://purl.org/dc/terms/description>
                 "Percentage of Staff that have attended for their OH screening" ;
         <http://purl.org/dc/terms/identifier>
-                "450O2843G17440FO" ;
+                "OH Clearance" , "450O2843G17440FO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/149Q7459M39456BO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -26,11 +24,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "149Q7459M39456BO" ;
+                "Air Sampling - Aspergillus Spore counts - Against an established local Aspergillus baseline" , "149Q7459M39456BO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/338Q3178X82206NO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -45,11 +41,9 @@
         <http://purl.org/dc/terms/format>
                 "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "338Q3178X82206NO" ;
+                "Exposure Incidents: Infection e.g. TB, Covid - Number of Persons Exposed \nNature / Location of Exposure " , "338Q3178X82206NO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/396M9248U63183JB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -62,11 +56,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "396M9248U63183JB" ;
+                "Adherence to care: PIVC Care bundles  - Is there a date on the PIVC dressing?" , "396M9248U63183JB" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/593O4459S13791YB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -79,20 +71,16 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "593O4459S13791YB" ;
+                "Adherence to care: PIVC Care bundles  - PIVC Overall compliance" , "593O4459S13791YB" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/123H1661J19313XI>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "123H1661J19313XI" ;
+                "Environment Hygiene and maintenance - Number of High Risks identifed in each clinical areas(inpatient)" , "123H1661J19313XI" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/979T6746B10442JQ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -105,11 +93,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "979T6746B10442JQ" ;
+                "VAP - ICU and HDU - PEPTIC ULCER PROPHYLAXIS" , "979T6746B10442JQ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/410P2920Y39890YZ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -124,20 +110,16 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "410P2920Y39890YZ" ;
+                "CVAD infections" , "410P2920Y39890YZ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/193P8308M55453LY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "193P8308M55453LY" ;
+                "Environment Hygiene and maintenance - Number of Low Risks identifed in each clinical ares(inpatient)" , "193P8308M55453LY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/778H2071N32535BK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -152,11 +134,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "778H2071N32535BK" ;
+                "Environment Hygiene and maintenance - Number / Percentage of Patients identifed as requiring isolation who are not in isolation rooms - Not currently monitored  AIRs submitted in relation to environment" , "778H2071N32535BK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/117R7966T37242HD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -171,11 +151,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "117R7966T37242HD" ;
+                "PPE donning and doffing  - Removed face shield/goggle without touching face or front of shield/goggles" , "117R7966T37242HD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/320I9015P92064BQ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -190,20 +168,16 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "320I9015P92064BQ" ;
+                "Surgical site infections  - Thoracotomy" , "320I9015P92064BQ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/786O8984B37399WC>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "786O8984B37399WC" ;
+                "Percentage of admissions that got their HCAI screening on admission - Covid screening" , "786O8984B37399WC" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/831V4372T89787EZ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -216,11 +190,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "831V4372T89787EZ" ;
+                "Adherence to care: Urinary Catheter (Indwelling) care bundle - Does the patient have urinary catheter care plan? (Orders-Nursing-Urinary catheter Care plan)" , "831V4372T89787EZ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/342T4428N42416RJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -235,11 +207,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "342T4428N42416RJ" ;
+                "S. aureus (MRSA and  MSSA) - \nS. aureus (MRSA) rate in inpatient acute beds \n" , "342T4428N42416RJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/288P2503H89097MY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -250,11 +220,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative, actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "288P2503H89097MY" ;
+                "Hand gel puchased" , "288P2503H89097MY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/111T6976N51832AH>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -269,11 +237,9 @@
         <http://purl.org/dc/terms/format>
                 "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "111T6976N51832AH" ;
+                "Donning and Doffing PPE  - PPE Training" , "111T6976N51832AH" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/689O9685L84605NJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -286,11 +252,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "689O9685L84605NJ" ;
+                "\nCOVID-19 - \nRate of positive Covid tests in staff " , "689O9685L84605NJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/580E7385B48217WJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -303,11 +267,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "580E7385B48217WJ" ;
+                "Adherence to care: PIVC Care bundles  - Does the PIVC have an extension set attached?" , "580E7385B48217WJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/548U1584R53330WK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -320,20 +282,16 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "548U1584R53330WK" ;
+                "Adherence to care: PIVC Care bundles  - Is the PIVC site assessment completed daily?" , "548U1584R53330WK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/649J8457Y84962AD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "649J8457Y84962AD" ;
+                "Patient been in other hospital in last 3 months" , "649J8457Y84962AD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/363P2593Q88725TD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -348,11 +306,9 @@
         <http://purl.org/dc/terms/format>
                 "Attendance number for others (retraining. Continuous training)" ;
         <http://purl.org/dc/terms/identifier>
-                "363P2593Q88725TD" ;
+                "Number / percentage of staff that are provided with access to continuous (updated) IPC training" , "363P2593Q88725TD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/149C9713J43281XS>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -367,11 +323,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "149C9713J43281XS" ;
+                "PPE donning and doffing  - Nursed in negative pressure room" , "149C9713J43281XS" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/123Q9008W22016DL>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -382,11 +336,9 @@
         <http://purl.org/dc/terms/description>
                 "for status immune/non-immune/unknown - % immune; % non-immune" ;
         <http://purl.org/dc/terms/identifier>
-                "123Q9008W22016DL" ;
+                "Health screening at induction - VZV (Varicella) status on New Starters" , "123Q9008W22016DL" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/449E6025O48558ZQ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -399,11 +351,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "449E6025O48558ZQ" ;
+                "VAP - ICU and HDU - The patient has been assessed for target RASS (Sedation Score) today\n" , "449E6025O48558ZQ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/223O6827T81398US>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -418,11 +368,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "223O6827T81398US" ;
+                "S. aureus (MRSA and  MSSA) - \n\n\nNo of Staphyloccocal Aureus Blood Stream infections attributed to an IV Device" , "223O6827T81398US" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/574B8866N91099AM>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -435,11 +383,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "574B8866N91099AM" ;
+                "\nCOVID-19 - Total number of new positive Covid -19 cases in hospital Inpatient Population per week" , "574B8866N91099AM" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/505X1620U61808DC>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -454,11 +400,9 @@
         <http://purl.org/dc/terms/format>
                 "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "505X1620U61808DC" ;
+                "Exposure Incidents (Reported): Needlestick injury (NSI) - Injuries (Reported) by Discipline \nInjuries (Reported) by Device \n Number of Injuries where Post-exposure prophylaxis (PEP) was required" , "505X1620U61808DC" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/805L6827V92671QS>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -473,11 +417,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "805L6827V92671QS" ;
+                "Adherence to care: PIVC Care bundles  - Is the reason for PIVC insertion recorded?" , "805L6827V92671QS" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/121F9368M75111XB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -492,11 +434,9 @@
         <http://purl.org/dc/terms/format>
                 "Incidence" ;
         <http://purl.org/dc/terms/identifier>
-                "121F9368M75111XB" ;
+                "Aspergillus \nNot Tramsmissible Person-to Person Incident - Single  - Air sampling undertaken monthly" , "121F9368M75111XB" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/311B8487R42218DY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -509,11 +449,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "311B8487R42218DY" ;
+                "COVID-19 - The number / rate of SARS 2 (Covid) positive inpatients in hospital weekly and the reported source" , "311B8487R42218DY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/434S1288T82907TP>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -528,11 +466,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "434S1288T82907TP" ;
+                "S. aureus (MRSA and  MSSA) - \nS. aureus (MSSA) rate in inpatient acute beds \n\n" , "434S1288T82907TP" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/519A5129K34111OT>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -545,11 +481,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "519A5129K34111OT" ;
+                "Adherence to care: PIVC Care bundles  - Has the VIP Score been recorded in the last 24 hours?" , "519A5129K34111OT" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/674P3088Z82555HB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -560,11 +494,9 @@
         <http://purl.org/dc/terms/description>
                 "1, 2, 3, Booster doses " ;
         <http://purl.org/dc/terms/identifier>
-                "674P3088Z82555HB" ;
+                "Vaccination Rates - Hepatitis B (induction)" , "674P3088Z82555HB" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/237H7801N91162AF>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -579,29 +511,23 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "237H7801N91162AF" ;
+                "PPE donning and doffing  - Once donned did not touch/adjust mask or unprotected body/clothing" , "237H7801N91162AF" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/184Q6477L73144JG>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "184Q6477L73144JG" ;
+                "Environment Hygiene and maintenance - IPC environment audits undertaken in response to an outbreak and / or a concern" , "184Q6477L73144JG" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/760E3227X99371NM>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "760E3227X99371NM" ;
+                "Percentage of admissions that got their HCAI screening on admission - CPE screening" , "760E3227X99371NM" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/288Q2960L77794FD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -614,11 +540,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "288Q2960L77794FD" ;
+                "\nCPE - % of patients screened at time of admission (Suspended in 2021) " , "288Q2960L77794FD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/542P6448I17255DW>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -633,11 +557,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "542P6448I17255DW" ;
+                "PPE donning and doffing  - Eye Protection on (If appropriate)" , "542P6448I17255DW" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/197A4718H22133GK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -652,22 +574,18 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "197A4718H22133GK" ;
+                "PPE donning and doffing  - Gown/Apron (Appropriate selection)" , "197A4718H22133GK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/625W8020M20213GS>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
                 "Staff observed undertaking Hand Hygiene in accordance with the 5 Key Moments (WHO) - Target 90% per area \n" ;
         <http://purl.org/dc/terms/identifier>
-                "625W8020M20213GS" ;
+                "Observational audits for compliance with the 5 moments of HH" , "625W8020M20213GS" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/407X7181M99406QI>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -682,11 +600,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "407X7181M99406QI" ;
+                "SAureus infections- Peripheral Line" , "407X7181M99406QI" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/589Y4364N23314TY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -701,11 +617,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "589Y4364N23314TY" ;
+                "Surgical site infections  - Upper GI / Gastrectomy or Oesophagectomy" , "589Y4364N23314TY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/936C8373M26082NL>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -718,11 +632,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "936C8373M26082NL" ;
+                "Adherence to care: PIVC Care bundles  - Is there any inflamation at the PIVC site?" , "936C8373M26082NL" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/223C4664E18422FF>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -737,11 +649,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "223C4664E18422FF" ;
+                "Environment Hygiene and maintenance - Number of Areas that have completed the hospital Environment  Hygiene Assessment monthly (As required)" , "223C4664E18422FF" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/323C6584S14640QF>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -756,11 +666,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "323C6584S14640QF" ;
+                "S. aureus (MRSA and  MSSA) - S. aureus (MRSA and  MSSA) rate in inpatient acute beds \n" , "323C6584S14640QF" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/650T4294W25670SI>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -775,11 +683,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "650T4294W25670SI" ;
+                "PPE donning and doffing  - Removed gown/apron without touching front and used appropriate rolling technique" , "650T4294W25670SI" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/300O8367T17471UG>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -788,11 +694,9 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/identifier>
-                "300O8367T17471UG" ;
+                "Vaccination Rates - TB" , "300O8367T17471UG" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/PCHCAIMetricsAndDataStreams>
         a       <http://www.w3.org/ns/dcat#Catalog> ;
@@ -816,22 +720,18 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "643S3572V86662XX" ;
+                "PPE donning and doffing  - Mask (Appropriate selection)" , "643S3572V86662XX" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/646L8011L63142JM>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
                 "(plan to gather this don’t gather this currently )" ;
         <http://purl.org/dc/terms/identifier>
-                "646L8011L63142JM" ;
+                "Rate of Urinary catheter infections" , "646L8011L63142JM" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/989Q3367B33181AV>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -846,11 +746,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "989Q3367B33181AV" ;
+                "VAP - ICU and HDU - The head of the bed is elevated to >30°?" , "989Q3367B33181AV" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/625V7036R77504SN>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -863,11 +761,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "625V7036R77504SN" ;
+                "Adherence to care: PIVC Care bundles  - Is the PIVC dressing intact?" , "625V7036R77504SN" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/666A9102A32546GS>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -876,11 +772,9 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/identifier>
-                "666A9102A32546GS" ;
+                "Vaccination Rates - MMR (induction)" , "666A9102A32546GS" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/134S8654E55800JQ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -895,11 +789,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "134S8654E55800JQ" ;
+                "C. difficile\n - Rate of CDI in inpatient population\n - Rate of CDI in Acute Beds   " , "134S8654E55800JQ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/481U3399F43812MY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -914,11 +806,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "481U3399F43812MY" ;
+                "Surgical site infections  - Colorectal" , "481U3399F43812MY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/405X2308R27621YK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -931,11 +821,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "405X2308R27621YK" ;
+                "VAP - ICU and HDU - TUBING MANAGEMENT" , "405X2308R27621YK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/450Q7616B83754XD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -950,11 +838,9 @@
         <http://purl.org/dc/terms/format>
                 "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "450Q7616B83754XD" ;
+                "Exposure Incidents: Body Fluid  - Exposures reported by Discipline \nExposures reported by Fluid / Spill " , "450Q7616B83754XD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/494N8339L57623HH>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -967,11 +853,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "494N8339L57623HH" ;
+                "Adherence to care: Urinary Catheter (Indwelling) care bundle - Urinary Catheter Care Overall Compliance" , "494N8339L57623HH" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/401N1668A94223PJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -986,11 +870,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "401N1668A94223PJ" ;
+                "PPE donning and doffing  - Hand hygiene performed at all appropriate times during doffing" , "401N1668A94223PJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd>
         a       <http://xmlns.com/foaf/0.1/Organization> ;
@@ -1010,11 +892,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate for new starters\n" ;
         <http://purl.org/dc/terms/identifier>
-                "409W7413S50385BG" ;
+                "Number / Percentage of Staff that are provided with access to IPC training at time of Induction" , "409W7413S50385BG" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/134B7694S35867RW>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1027,11 +907,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "134B7694S35867RW" ;
+                "VAP - ICU and HDU - DVT PROPHYLAXIS" , "134B7694S35867RW" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/529U1705F59164IZ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1042,11 +920,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "529U1705F59164IZ" ;
+                "Training by discipline and by department" , "529U1705F59164IZ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/486O9464X85309BK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1059,11 +935,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "486O9464X85309BK" ;
+                "Adherence to care: Urinary Catheter (Indwelling) care bundle - Is the clinical indication for insertion of urinary catheter recorded on care plan (iView-Lines & Devices-Urinary catheter-'indication')?" , "486O9464X85309BK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b>
         a       <http://xmlns.com/foaf/0.1/Organization> ;
@@ -1083,11 +957,9 @@
         <http://purl.org/dc/terms/format>
                 "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "488M3180Y70300JV" ;
+                "Numberf of staff trained and fitted for appropriate FFP application use.  - PPE Training" , "488M3180Y70300JV" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/844X7247M72680MY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1100,11 +972,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "844X7247M72680MY" ;
+                "Adherence to care: Urinary Catheter (Indwelling) care bundle - Urinary Catheter Care Compliance" , "844X7247M72680MY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/186V1920L95195IM>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1113,11 +983,9 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/identifier>
-                "186V1920L95195IM" ;
+                "Vaccination Rates - Covid (1,2, booster) " , "186V1920L95195IM" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/258Y2726K72593PC>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1132,11 +1000,9 @@
         <http://purl.org/dc/terms/format>
                 "Incidence" ;
         <http://purl.org/dc/terms/identifier>
-                "258Y2726K72593PC" ;
+                "Pseudomonas aeruginosa" , "258Y2726K72593PC" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/275Q1400Y11031HD>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1149,11 +1015,9 @@
         <http://purl.org/dc/terms/format>
                 "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "275Q1400Y11031HD" ;
+                "CPE - New cases of CPE (All Variants) detected per Location Weekly" , "275Q1400Y11031HD" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/764I4808L27291AO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1164,20 +1028,16 @@
         <http://purl.org/dc/terms/description>
                 "Neg / Pos-IGRA / DNA reading / % DNA / 2nd 2TU / Negative / Pos-IGRA / 2DNA / % DNA. ( Interferon Gamma Release Assay (IGRA) detects interference in relation to live infection - blood test)" ;
         <http://purl.org/dc/terms/identifier>
-                "764I4808L27291AO" ;
+                "Health screening at induction - TB screening" , "764I4808L27291AO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/307Y1512E55108EE>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "307Y1512E55108EE" ;
+                "National HH audit (bi-annually) goes HPSC - observation 5 monents HH" , "307Y1512E55108EE" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/227W6285Q41714DJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1192,11 +1052,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "227W6285Q41714DJ" ;
+                "Aherence to Care Bundle: CVADs/CVCs - Is the appropriate Central venous access devices (CVAD) or central venous catheters (CVCs) dressing insitu (observation)?" , "227W6285Q41714DJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/586D9391B84437CU>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1211,11 +1069,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "586D9391B84437CU" ;
+                "Aherence to Care Bundle: CVADs/CVCs - CVAD Care Compliance" , "586D9391B84437CU" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/683V1931P27301NT>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1230,11 +1086,9 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "683V1931P27301NT" ;
+                "Aherence to Care Bundle: CVADs/CVCs - Is there evidence of needleless connectors ('blue clave') change as per hospital policy?" , "683V1931P27301NT" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/878G2392X86479YA>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1249,11 +1103,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "878G2392X86479YA" ;
+                "PPE donning and doffing  - Mask (Appropriate Selection)" , "878G2392X86479YA" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/450E9155C63068RY>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1268,11 +1120,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "450E9155C63068RY" ;
+                "PPE donning and doffing  - Eye Protection (If appropriate)" , "450E9155C63068RY" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/513X8171R90188EN>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1281,11 +1131,9 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/identifier>
-                "513X8171R90188EN" ;
+                "Vaccination Rates - Influenza (seasonal)" , "513X8171R90188EN" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/406V6350B69263RK>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1300,11 +1148,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "406V6350B69263RK" ;
+                "PPE donning and doffing  -  Gloves on" , "406V6350B69263RK" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/870E7262S49303KQ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1319,11 +1165,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "870E7262S49303KQ" ;
+                "PPE donning and doffing  - Mask removed outside room (or left on if sessional use appropriate)" , "870E7262S49303KQ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/146L5270C38404IO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1338,11 +1182,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "146L5270C38404IO" ;
+                "PPE donning and doffing  - Hand Hygiene prior to Donning PPE" , "146L5270C38404IO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/244S4205N16224IZ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1355,11 +1197,9 @@
         <http://purl.org/dc/terms/format>
                 "% of new starts who attend for screening % of those who screen positive. Outcome for the person (if pos treated and re-tested)" ;
         <http://purl.org/dc/terms/identifier>
-                "244S4205N16224IZ" ;
+                "Health screening at induction - Hepatitis B status on induction" , "244S4205N16224IZ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/779L4360X74206BR>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1374,11 +1214,9 @@
         <http://purl.org/dc/terms/format>
                 "Incidence" ;
         <http://purl.org/dc/terms/identifier>
-                "779L4360X74206BR" ;
+                "legionella \nNot Tramsmissible Person-to Person Incident - Single  - Water testing" , "779L4360X74206BR" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/556P9957T79288PF>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1393,11 +1231,9 @@
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
-                "556P9957T79288PF" ;
+                "PPE donning and doffing  - Proper glove in glove technique for glove removal" , "556P9957T79288PF" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/506G2832C63859OU>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1412,11 +1248,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "506G2832C63859OU" ;
+                "SAureus infections - Central Line \n  " , "506G2832C63859OU" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/445D3029P85862LU>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1431,11 +1265,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "445D3029P85862LU" ;
+                "Surgical site infections  - Breast wound (Mastectomy only)" , "445D3029P85862LU" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/680T8438K58122OT>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1448,11 +1280,9 @@
         <http://purl.org/dc/terms/format>
                 "Audit, quantitative data" ;
         <http://purl.org/dc/terms/identifier>
-                "680T8438K58122OT" ;
+                "VAP - ICU and HDU - ORAL CARE" , "680T8438K58122OT" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/537K9997I15994MU>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1467,28 +1297,22 @@
         <http://purl.org/dc/terms/format>
                 "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "537K9997I15994MU" ;
+                "Aherence to Care Bundle: CVADs/CVCs - CVAD Care overall compliance" , "537K9997I15994MU" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/909H4387D78170EJ>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/identifier>
-                "909H4387D78170EJ" ;
+                "Environment Hygiene and maintenance - Number of reported risks closed out in a timely manner * (Not defined)" , "909H4387D78170EJ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/178X3850Y67935CF>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
                 "check whether currently measured" ;
         <http://purl.org/dc/terms/identifier>
-                "178X3850Y67935CF" ;
+                "PPE Stock levels  - PPE purchases (Procurement - check re stock levels 3 / 6 months & quality of stock)" , "178X3850Y67935CF" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
-        <http://purl.org/dc/terms/title>
-                "FullMetricTitle" .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> .
