@@ -1,122 +1,1494 @@
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/450O2843G17440FO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
         <http://purl.org/dc/terms/description>
-                "(i.e. CVAD & Hickman=gauze x frist 24 hours, Biopatch/Tegaderm thereafter: PICC=Securing device, tegaderm & biopatch: Port-a-cath=Huber needle (if present) covered with transparent dressing) " ;
+                "Percentage of Staff that have attended for their OH screening" ;
         <http://purl.org/dc/terms/identifier>
-                "08FDEB41" ;
+                "450O2843G17440FO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
         <http://purl.org/dc/terms/title>
-                "Aherence to Care Bundle: Central Line Devices / Central venous access devices (CVADs) or central venous catheters (CVCs) - Is the appropriate CVAD dressing insitu (observation)?" ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41/resource/E498C2D7> .
+                "FullMetricTitle" .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/149Q7459M39456BO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly and In response to Activity (Construction or High Risk Patient)" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
         <http://purl.org/dc/terms/description>
-                "Automatic download from EPR into Power BI based on whether certain fields were filled or not" ;
+                "Spore Count / Baseline Count" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
         <http://purl.org/dc/terms/identifier>
-                "02D3869E" ;
+                "149Q7459M39456BO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
         <http://purl.org/dc/terms/title>
-                "Aherence to Care Bundle: Central Line Devices / Central venous access devices (CVADs) or central venous catheters (CVCs) - CVAD Care Compliance" ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E/resource/E498C2D7> .
+                "FullMetricTitle" .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C/resource/E498C2D7>
-        a       <http://www.w3.org/ns/dcat#Distribution> ;
-        <http://purl.org/dc/terms/description>
-                "De-identified ample of PCHCAI metric data" ;
-        <http://purl.org/dc/terms/format>
-                "XLXS" ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
-        <http://www.w3.org/ns/dcat#accessURL>
-                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.xlsx" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/08FDEB41/resource/E498C2D7>
-        a       <http://www.w3.org/ns/dcat#Distribution> ;
-        <http://purl.org/dc/terms/description>
-                "De-identified ample of PCHCAI metric data" ;
-        <http://purl.org/dc/terms/format>
-                "XLXS" ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
-        <http://www.w3.org/ns/dcat#accessURL>
-                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.xlsx" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/338Q3178X82206NO>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
         <http://purl.org/dc/terms/description>
-                "Average of above 3 scores" ;
+                "Number of Staff Exposed \nNumber of Staff exposed wgo contracted Infection\nNumber of exposured staff where treatment / intervention was required " ;
+        <http://purl.org/dc/terms/format>
+                "Actual number" ;
         <http://purl.org/dc/terms/identifier>
-                "7697EDB6" ;
+                "338Q3178X82206NO" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
         <http://purl.org/dc/terms/title>
-                "Aherence to Care Bundle: Central Line Devices / Central venous access devices (CVADs) or central venous catheters (CVCs) - CVAD Care overall compliance" ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6/resource/E498C2D7> .
+                "FullMetricTitle" .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/396M9248U63183JB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
-        <http://purl.org/dc/terms/description>
-                "(iView-Lines & Devices-CVAD - click into 'CVAD Line Care')" ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Observation" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
         <http://purl.org/dc/terms/identifier>
-                "D02D1C6E" ;
+                "396M9248U63183JB" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
         <http://purl.org/dc/terms/title>
-                "Aherence to Care Bundle: Central Line Devices / Central venous access devices (CVADs) or central venous catheters (CVCs) - Is there evidence of needleless connectors ('blue clave') change as per hospital policy?" ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E/resource/E498C2D7> .
+                "FullMetricTitle" .
 
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/02D3869E/resource/E498C2D7>
-        a       <http://www.w3.org/ns/dcat#Distribution> ;
-        <http://purl.org/dc/terms/description>
-                "De-identified ample of PCHCAI metric data" ;
-        <http://purl.org/dc/terms/format>
-                "XLXS" ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
-        <http://www.w3.org/ns/dcat#accessURL>
-                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.xlsx" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/7697EDB6/resource/E498C2D7>
-        a       <http://www.w3.org/ns/dcat#Distribution> ;
-        <http://purl.org/dc/terms/description>
-                "De-identified ample of PCHCAI metric data" ;
-        <http://purl.org/dc/terms/format>
-                "XLXS" ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
-        <http://www.w3.org/ns/dcat#accessURL>
-                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.xlsx" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/D02D1C6E/resource/E498C2D7>
-        a       <http://www.w3.org/ns/dcat#Distribution> ;
-        <http://purl.org/dc/terms/description>
-                "De-identified ample of PCHCAI metric data" ;
-        <http://purl.org/dc/terms/format>
-                "XLXS" ;
-        <http://purl.org/dc/terms/title>
-                "PCHCAI Metrics and Data streams 15 March 2022 -SAMPLE Deidentified" ;
-        <http://www.w3.org/ns/dcat#accessURL>
-                "https://openark.adaptcentre.ie/ARK_Websites/SamplePCHCAIData.xlsx" .
-
-<https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C>
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/593O4459S13791YB>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Average of all of above scores" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "593O4459S13791YB" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/123H1661J19313XI>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "123H1661J19313XI" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/979T6746B10442JQ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "979T6746B10442JQ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/410P2920Y39890YZ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
         <http://purl.org/dc/terms/description>
                 "Rate of CVAD infections per 1000 catheter days  in Ward/Unit" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "7E267D8C" ;
+                "410P2920Y39890YZ" ;
         <http://purl.org/dc/terms/publisher>
-                <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b> ;
-        <http://www.w3.org/ns/dcat#distribution>
-                <https://openark.adaptcentre.ie/ARKEvidence/dataset/7E267D8C/resource/E498C2D7> .
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/193P8308M55453LY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "193P8308M55453LY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/778H2071N32535BK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "TBC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "TBC" ;
+        <http://purl.org/dc/terms/description>
+                "Number of Patients identifed as requiring isolation (by IPC Definition) who are in  isolation  / Number of Patients identifed as requiring isolation (by IPC Definition)" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "778H2071N32535BK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/117R7966T37242HD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "117R7966T37242HD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/320I9015P92064BQ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Wound Infections detected per 100 Operations. There is national average/target and hospital annual rate \n" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "320I9015P92064BQ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/786O8984B37399WC>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "786O8984B37399WC" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/831V4372T89787EZ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Chart Review EPR" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "831V4372T89787EZ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/342T4428N42416RJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Rate of infections detected per 1000 bed days. There is national average/target and hospital annual rate" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "342T4428N42416RJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/288P2503H89097MY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Procurement" ;
+        <http://purl.org/dc/terms/format>
+                "Quantitative, actual number" ;
+        <http://purl.org/dc/terms/identifier>
+                "288P2503H89097MY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/111T6976N51832AH>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "No analysis" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous / Intermittent (In response to Outbreak)" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC / CLD (HR)" ;
+        <http://purl.org/dc/terms/description>
+                "Numbers who attended training sessions (No headcount)" ;
+        <http://purl.org/dc/terms/format>
+                "Actual number" ;
+        <http://purl.org/dc/terms/identifier>
+                "111T6976N51832AH" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/689O9685L84605NJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Virology" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "689O9685L84605NJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/580E7385B48217WJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Observation" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "580E7385B48217WJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/548U1584R53330WK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Chart Review EPR" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "548U1584R53330WK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/649J8457Y84962AD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "649J8457Y84962AD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/363P2593Q88725TD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC \n? HR" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC / CLD (HR)" ;
+        <http://purl.org/dc/terms/description>
+                "Number of Staff who attend IPC Update Traiing - No headcount identifed" ;
+        <http://purl.org/dc/terms/format>
+                "Attendance number for others (retraining. Continuous training)" ;
+        <http://purl.org/dc/terms/identifier>
+                "363P2593Q88725TD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/149C9713J43281XS>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "149C9713J43281XS" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/123Q9008W22016DL>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "for status immune/non-immune/unknown - % immune; % non-immune" ;
+        <http://purl.org/dc/terms/identifier>
+                "123Q9008W22016DL" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/449E6025O48558ZQ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "449E6025O48558ZQ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/223O6827T81398US>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Rate of infections detected per 1000 bed days. There is national average/target and hospital annual rate" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "223O6827T81398US" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/574B8866N91099AM>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Virology" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "574B8866N91099AM" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/505X1620U61808DC>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "Number of Staff injured\nNumber of staff by Discipline \nNumber of injuries where Post-exposure prophylaxis (PEP) was required " ;
+        <http://purl.org/dc/terms/format>
+                "Actual number" ;
+        <http://purl.org/dc/terms/identifier>
+                "505X1620U61808DC" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/805L6827V92671QS>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Chart Review EPR" ;
+        <http://purl.org/dc/terms/description>
+                "Adherence to care: Peripheral Intravenous Devices / Peripherally Inserted Venous Catheter (PIVC) Care bundles" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "805L6827V92671QS" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/121F9368M75111XB>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "As Occurs" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Increased at times of building / excavation activity" ;
+        <http://purl.org/dc/terms/format>
+                "Incidence" ;
+        <http://purl.org/dc/terms/identifier>
+                "121F9368M75111XB" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/311B8487R42218DY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Virology" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "311B8487R42218DY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/434S1288T82907TP>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Rate of infections detected per 1000 bed days. There is national average/target and hospital annual rate" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "434S1288T82907TP" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/519A5129K34111OT>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Chart Review EPR" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "519A5129K34111OT" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/674P3088Z82555HB>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "1, 2, 3, Booster doses " ;
+        <http://purl.org/dc/terms/identifier>
+                "674P3088Z82555HB" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/237H7801N91162AF>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "237H7801N91162AF" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/184Q6477L73144JG>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "184Q6477L73144JG" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/760E3227X99371NM>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "760E3227X99371NM" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/288Q2960L77794FD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "288Q2960L77794FD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/542P6448I17255DW>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "542P6448I17255DW" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/197A4718H22133GK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "197A4718H22133GK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/625W8020M20213GS>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/description>
+                "Staff observed undertaking Hand Hygiene in accordance with the 5 Key Moments (WHO) - Target 90% per area \n" ;
+        <http://purl.org/dc/terms/identifier>
+                "625W8020M20213GS" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/407X7181M99406QI>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "No of Staphyloccocal Aureus Blood Stream infections attributed to an IV Device - Peripheral Line" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "407X7181M99406QI" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/589Y4364N23314TY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Wound Infections detected per 100 Operations. There is national average/target and hospital annual rate \n" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "589Y4364N23314TY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/936C8373M26082NL>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Observation" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "936C8373M26082NL" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/223C4664E18422FF>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "HSC / Facilities" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Nursing /  Facilities" ;
+        <http://purl.org/dc/terms/description>
+                "Inpatient 37 inpatient areas; 90%  using risk based assessment intermittently\nAmbulatory care areas to commence Q2 2022\nHygiene Environment Assessment results uploaded to Power BI. " ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "223C4664E18422FF" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/323C6584S14640QF>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Rate of infections detected per 1000 bed days. There is national average/target and hospital annual rate" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "323C6584S14640QF" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/650T4294W25670SI>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "650T4294W25670SI" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/300O8367T17471UG>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/identifier>
+                "300O8367T17471UG" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/PCHCAIMetricsAndDataStreams>
+        a       <http://www.w3.org/ns/dcat#Catalog> ;
+        <http://purl.org/dc/terms/title>
+                "PCHCAI Metrics and Data Streams" ;
+        <http://www.w3.org/ns/dcat#dataset>
+                <https://openark.adaptcentre.ie/ARKEvidence/dataset/197A4718H22133GK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/288Q2960L77794FD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/123Q9008W22016DL> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/529U1705F59164IZ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/338Q3178X82206NO> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/311B8487R42218DY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/434S1288T82907TP> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/223O6827T81398US> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/979T6746B10442JQ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/666A9102A32546GS> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/779L4360X74206BR> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/519A5129K34111OT> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/396M9248U63183JB> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/805L6827V92671QS> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/307Y1512E55108EE> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/288P2503H89097MY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/589Y4364N23314TY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/593O4459S13791YB> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/650T4294W25670SI> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/450E9155C63068RY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/760E3227X99371NM> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/223C4664E18422FF> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/450Q7616B83754XD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/134S8654E55800JQ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/646L8011L63142JM> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/121F9368M75111XB> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/486O9464X85309BK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/445D3029P85862LU> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/909H4387D78170EJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/513X8171R90188EN> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/764I4808L27291AO> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/275Q1400Y11031HD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/149C9713J43281XS> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/680T8438K58122OT> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/193P8308M55453LY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/506G2832C63859OU> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/449E6025O48558ZQ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/556P9957T79288PF> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/625V7036R77504SN> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/586D9391B84437CU> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/936C8373M26082NL> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/401N1668A94223PJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/844X7247M72680MY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/407X7181M99406QI> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/548U1584R53330WK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/146L5270C38404IO> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/184Q6477L73144JG> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/123H1661J19313XI> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/674P3088Z82555HB> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/580E7385B48217WJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/649J8457Y84962AD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/178X3850Y67935CF> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/643S3572V86662XX> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/300O8367T17471UG> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/320I9015P92064BQ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/342T4428N42416RJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/237H7801N91162AF> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/542P6448I17255DW> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/244S4205N16224IZ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/625W8020M20213GS> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/494N8339L57623HH> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/111T6976N51832AH> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/406V6350B69263RK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/134B7694S35867RW> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/786O8984B37399WC> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/149Q7459M39456BO> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/778H2071N32535BK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/410P2920Y39890YZ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/689O9685L84605NJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/405X2308R27621YK> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/870E7262S49303KQ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/488M3180Y70300JV> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/574B8866N91099AM> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/537K9997I15994MU> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/363P2593Q88725TD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/450O2843G17440FO> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/186V1920L95195IM> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/258Y2726K72593PC> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/683V1931P27301NT> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/481U3399F43812MY> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/117R7966T37242HD> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/989Q3367B33181AV> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/227W6285Q41714DJ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/505X1620U61808DC> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/409W7413S50385BG> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/831V4372T89787EZ> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/878G2392X86479YA> , <https://openark.adaptcentre.ie/ARKEvidence/dataset/323C6584S14640QF> ;
+        <http://www.w3.org/ns/dcat#description>
+                "A catalog of PCHCAI metrics and data streams used in St. James's Hospital" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/643S3572V86662XX>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "643S3572V86662XX" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/646L8011L63142JM>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/description>
+                "(plan to gather this don’t gather this currently )" ;
+        <http://purl.org/dc/terms/identifier>
+                "646L8011L63142JM" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/989Q3367B33181AV>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/description>
+                "Ventilator Associated/Acquired Pneumonia (VAP) - Critical Care (ICU and HDU)" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "989Q3367B33181AV" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/625V7036R77504SN>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Observation" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "625V7036R77504SN" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/666A9102A32546GS>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/identifier>
+                "666A9102A32546GS" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/134S8654E55800JQ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "C diff episodes - rate of infections detected per 1000 bed days. There is national average/target and hospital annual rate" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "134S8654E55800JQ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/481U3399F43812MY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Wound Infections detected per 100 Operations. There is national average/target and hospital annual rate \n" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "481U3399F43812MY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/405X2308R27621YK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "405X2308R27621YK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/450Q7616B83754XD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "Number of Staff / incidents of exposure\nNumber of staff / exposures by Discipline \nNumber of injuries / exposures where Post-exposure prophylaxis (PEP) was required " ;
+        <http://purl.org/dc/terms/format>
+                "Actual number" ;
+        <http://purl.org/dc/terms/identifier>
+                "450Q7616B83754XD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/494N8339L57623HH>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Average of all of above scores" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "494N8339L57623HH" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/401N1668A94223PJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "401N1668A94223PJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd>
+        a       <http://xmlns.com/foaf/0.1/Organization> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "St. James's Hospital" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/409W7413S50385BG>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC/ HR" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "2 Weekly Induction Programme" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC / CLD (HR)" ;
+        <http://purl.org/dc/terms/description>
+                "Number of New Staff (Induction Register) whyo complate IPC training \n" ;
+        <http://purl.org/dc/terms/format>
+                "Rate for new starters\n" ;
+        <http://purl.org/dc/terms/identifier>
+                "409W7413S50385BG" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/134B7694S35867RW>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "134B7694S35867RW" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/529U1705F59164IZ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/description>
+                "the percentage of workforce who have completed their Mandatory Hand Hygiene Training\nTarget 100% HSE\n" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "529U1705F59164IZ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/486O9464X85309BK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Care Nursing Metrics Chart Review EPR" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "486O9464X85309BK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/organization/5a17c677-3bf7-4680-93c1-77efc6863d1b>
         a       <http://xmlns.com/foaf/0.1/Organization> ;
         <http://xmlns.com/foaf/0.1/name>
                 "Dublin City University" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/488M3180Y70300JV>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "No analysis" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "External compnay do training; get numbers monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "The number of staff fitted and trained in appropriate FFP mask application." ;
+        <http://purl.org/dc/terms/format>
+                "Actual number" ;
+        <http://purl.org/dc/terms/identifier>
+                "488M3180Y70300JV" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/844X7247M72680MY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Power BI - all patients" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "844X7247M72680MY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/186V1920L95195IM>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/identifier>
+                "186V1920L95195IM" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/258Y2726K72593PC>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "As Occurs" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Increased Incidence confirmed as Outbreak / cluster with genome sequence testing (relationship between events)" ;
+        <http://purl.org/dc/terms/format>
+                "Incidence" ;
+        <http://purl.org/dc/terms/identifier>
+                "258Y2726K72593PC" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/275Q1400Y11031HD>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/format>
+                "Rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "275Q1400Y11031HD" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/764I4808L27291AO>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "Neg / Pos-IGRA / DNA reading / % DNA / 2nd 2TU / Negative / Pos-IGRA / 2DNA / % DNA. ( Interferon Gamma Release Assay (IGRA) detects interference in relation to live infection - blood test)" ;
+        <http://purl.org/dc/terms/identifier>
+                "764I4808L27291AO" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/307Y1512E55108EE>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "307Y1512E55108EE" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/227W6285Q41714DJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Nursing Care Metrics Observation" ;
+        <http://purl.org/dc/terms/description>
+                "(i.e. CVAD & Hickman=gauze x frist 24 hours, Biopatch/Tegaderm thereafter: PICC=Securing device, tegaderm & biopatch: Port-a-cath=Huber needle (if present) covered with transparent dressing) " ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "227W6285Q41714DJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/586D9391B84437CU>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "NPDU" ;
+        <http://purl.org/dc/terms/description>
+                "Automatic download from EPR into Power BI based on whether certain fields were filled or not" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "586D9391B84437CU" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/683V1931P27301NT>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "NPDU" ;
+        <http://purl.org/dc/terms/description>
+                "(iView-Lines & Devices-CVAD - click into 'CVAD Line Care')" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "683V1931P27301NT" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/878G2392X86479YA>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "878G2392X86479YA" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/450E9155C63068RY>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "450E9155C63068RY" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/513X8171R90188EN>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/identifier>
+                "513X8171R90188EN" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/406V6350B69263RK>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "406V6350B69263RK" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/870E7262S49303KQ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "870E7262S49303KQ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/146L5270C38404IO>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "146L5270C38404IO" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/244S4205N16224IZ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Occ Health" ;
+        <http://purl.org/dc/terms/description>
+                "for status immune/low response/non-immunce/unknown %immune/low-response/non-immune" ;
+        <http://purl.org/dc/terms/format>
+                "% of new starts who attend for screening % of those who screen positive. Outcome for the person (if pos treated and re-tested)" ;
+        <http://purl.org/dc/terms/identifier>
+                "244S4205N16224IZ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/779L4360X74206BR>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "As Occurs" ;
+        <http://purl.org/dc/terms/creator>
+                "LabMed - Micrbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Water testing carried out to minimise risk.\nWater Temperature testing \nPCHCAI chair also noted would like data on maintenance of controls of risk e.g. shower head changes  and flushing ater outlets " ;
+        <http://purl.org/dc/terms/format>
+                "Incidence" ;
+        <http://purl.org/dc/terms/identifier>
+                "779L4360X74206BR" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/556P9957T79288PF>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "IPC" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Unknown - areas audited" ;
+        <http://purl.org/dc/terms/creator>
+                "IPC" ;
+        <http://purl.org/dc/terms/description>
+                "observational assessment by IPC staff" ;
+        <http://purl.org/dc/terms/format>
+                "Yes/No responses added up to % of staff compliant" ;
+        <http://purl.org/dc/terms/identifier>
+                "556P9957T79288PF" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/506G2832C63859OU>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "No of Staphyloccocal Aureus Blood Stream infections attributed to an IV Device - Central Line" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "506G2832C63859OU" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/445D3029P85862LU>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Continuous" ;
+        <http://purl.org/dc/terms/creator>
+                "Microbiology" ;
+        <http://purl.org/dc/terms/description>
+                "Wound Infections detected per 100 Operations. There is national average/target and hospital annual rate \n" ;
+        <http://purl.org/dc/terms/format>
+                "rate" ;
+        <http://purl.org/dc/terms/identifier>
+                "445D3029P85862LU" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/680T8438K58122OT>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "ICU Audit manager" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "Audit" ;
+        <http://purl.org/dc/terms/format>
+                "Audit, quantitative data" ;
+        <http://purl.org/dc/terms/identifier>
+                "680T8438K58122OT" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/537K9997I15994MU>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+                "Nurse Practice Development Unit (NPDU)" ;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                "Monthly" ;
+        <http://purl.org/dc/terms/creator>
+                "NPDU" ;
+        <http://purl.org/dc/terms/description>
+                "Average of above 3 scores" ;
+        <http://purl.org/dc/terms/format>
+                "% compliance of audited area within Month timeframe" ;
+        <http://purl.org/dc/terms/identifier>
+                "537K9997I15994MU" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/909H4387D78170EJ>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/identifier>
+                "909H4387D78170EJ" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
+
+<https://openark.adaptcentre.ie/ARKEvidence/dataset/178X3850Y67935CF>
+        a       <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://purl.org/dc/terms/description>
+                "check whether currently measured" ;
+        <http://purl.org/dc/terms/identifier>
+                "178X3850Y67935CF" ;
+        <http://purl.org/dc/terms/publisher>
+                <https://openark.adaptcentre.ie/ARKEvidence/organization/f3885bc4-86aa-4f67-9554-951410352dcd> ;
+        <http://purl.org/dc/terms/title>
+                "FullMetricTitle" .
