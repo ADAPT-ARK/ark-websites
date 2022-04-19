@@ -14,7 +14,7 @@
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/4fd42b48-507b-4a9e-ba6a-c88245cb9ce1>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
-        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+        <http://purl.org/dc/terms/provenance>
                 "Nurse Practice Development Unit (NPDU)" ;
         <http://purl.org/dc/terms/accrualPeriodicity>
                 "Monthly" ;
@@ -33,7 +33,7 @@
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/28d85de0-3e5a-4dfd-9c2b-5f059660bd6f>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
-        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+        <http://purl.org/dc/terms/provenance>
                 "Nurse Practice Development Unit (NPDU)" ;
         <http://purl.org/dc/terms/accrualPeriodicity>
                 "Monthly" ;
@@ -52,7 +52,7 @@
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/5971e5f5-8a60-4810-ae8a-86cbf0f1c938>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
-        <http://openark.adaptcentre.ie/Ontologies/ARKCube#analysedBy>
+        <http://purl.org/dc/terms/provenance>
                 "Nurse Practice Development Unit (NPDU)" ;
         <http://purl.org/dc/terms/accrualPeriodicity>
                 "Monthly" ;
