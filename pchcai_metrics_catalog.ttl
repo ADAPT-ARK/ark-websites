@@ -46,7 +46,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -76,7 +76,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -104,7 +104,7 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/description>
-                "for status immune/low response/non-immunce/unknown %immune/low-response/non-immune" ;
+                "For status immune/low response/non-immunce/unknown %immune/low-response/non-immune" ;
         <http://purl.org/dc/terms/format>
                 "% of new starts who attend for screening % of those who screen positive. Outcome for the person (if pos treated and re-tested)" ;
         <http://purl.org/dc/terms/identifier>
@@ -132,7 +132,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -218,7 +218,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -315,7 +315,7 @@
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/526ecb95-0a74-454b-a103-18ec16817edd>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
-                "(plan to gather this don’t gather this currently )" ;
+                "(Plan to gather this don’t gather this currently )" ;
         <http://purl.org/dc/terms/identifier>
                 "526ecb95-0a74-454b-a103-18ec16817edd" ;
         <http://purl.org/dc/terms/title>
@@ -512,7 +512,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -551,7 +551,7 @@
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/56f49405-cba6-4f56-9310-34d614efbfab>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
         <http://purl.org/dc/terms/description>
-                "check whether currently measured" ;
+                "Check whether currently measured" ;
         <http://purl.org/dc/terms/identifier>
                 "56f49405-cba6-4f56-9310-34d614efbfab" ;
         <http://purl.org/dc/terms/title>
@@ -564,7 +564,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -764,7 +764,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -779,7 +779,7 @@
         <http://purl.org/dc/terms/creator>
                 "AMS Team" ;
         <http://purl.org/dc/terms/description>
-                "demographic profile of patients (e.g. age, gender etc)" ;
+                "Demographic profile of patients (e.g. age, gender etc)" ;
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
@@ -831,7 +831,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -846,7 +846,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -973,7 +973,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -1051,7 +1051,7 @@
         <http://purl.org/dc/terms/creator>
                 "AMS Team" ;
         <http://purl.org/dc/terms/description>
-                "the length of antimicrobial therapy at time of review" ;
+                "The length of antimicrobial therapy at time of review" ;
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
@@ -1108,7 +1108,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -1244,7 +1244,7 @@
         <http://purl.org/dc/terms/creator>
                 "Occ Health" ;
         <http://purl.org/dc/terms/description>
-                "for status immune/non-immune/unknown - % immune; % non-immune" ;
+                "For status immune/non-immune/unknown - % immune; % non-immune" ;
         <http://purl.org/dc/terms/identifier>
                 "daae429d-e35c-4c81-88a2-cc7d917159fb" ;
         <http://purl.org/dc/terms/title>
@@ -1257,7 +1257,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -1272,7 +1272,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
@@ -1371,7 +1371,7 @@
         <http://purl.org/dc/terms/creator>
                 "IPC" ;
         <http://purl.org/dc/terms/description>
-                "observational assessment by IPC staff" ;
+                "Observational assessment by IPC staff" ;
         <http://purl.org/dc/terms/format>
                 "Yes/No responses added up to % of staff compliant" ;
         <http://purl.org/dc/terms/identifier>
