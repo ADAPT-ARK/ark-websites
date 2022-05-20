@@ -35,7 +35,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "315e937c-1211-4ba3-96eb-cb4f0193d077" .
+                "315e937c-1211-4ba3-96eb-cb4f0193d077" ;
+        <http://purl.org/dc/terms/title>
+                "Restricted antimicrobials - Resticted antimicrobials that were micro/ID approved" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/8e090f23-89bf-47f3-8777-6f02a7f23fbe>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -287,7 +289,7 @@
         <http://purl.org/dc/terms/identifier>
                 "0a862a96-ce09-4aca-88ad-7be428a9f050" ;
         <http://purl.org/dc/terms/title>
-                "legionella Not Tramsmissible Person-to Person Incident - Single  - Water testing" .
+                "Legionella Not Tramsmissible Person-to Person Incident - Single  - Water testing" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/971e3dba-84c8-46e9-bcd1-2b0eb28f062c>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -398,7 +400,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "bc096012-470a-4ce8-bff4-ea8e45194c47" .
+                "bc096012-470a-4ce8-bff4-ea8e45194c47" ;
+        <http://purl.org/dc/terms/title>
+                "AMS advice given - Recommendation from AMS team" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/f12f8137-0fe2-4f7b-b634-dd1fb09092a0>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -418,7 +422,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "a383bff9-a209-4014-8b11-d17d77d81ae5" .
+                "a383bff9-a209-4014-8b11-d17d77d81ae5" ;
+        <http://purl.org/dc/terms/title>
+                "S. aureus infections- Peripheral Line" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/23e630f8-64c8-492c-9183-ef41cab565f0>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -431,7 +437,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "23e630f8-64c8-492c-9183-ef41cab565f0" .
+                "23e630f8-64c8-492c-9183-ef41cab565f0" ;
+        <http://purl.org/dc/terms/title>
+                "CVAD infections" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/ac406e7c-18c4-4e4d-afff-bd9e28ba91b8>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -444,7 +452,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "ac406e7c-18c4-4e4d-afff-bd9e28ba91b8" .
+                "ac406e7c-18c4-4e4d-afff-bd9e28ba91b8" ;
+        <http://purl.org/dc/terms/title>
+                "Uptake of recommendation - Uptake of recommendations" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/f8a3c6d7-b1f9-4bab-bf92-965cdd01f809>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -528,7 +538,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "fdbb2417-b7be-498c-8c4d-283cc8c444bc" .
+                "fdbb2417-b7be-498c-8c4d-283cc8c444bc" ;
+        <http://purl.org/dc/terms/title>
+                "Is antimicrobial therapy targeted or empiric - empiric (broad cover) or targeted (narrow cover)" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/9014ee10-0f2a-4ebb-8651-cccf202ba993>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -589,7 +601,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "28bbe871-736c-49c9-b719-fab9418dbd72" .
+                "28bbe871-736c-49c9-b719-fab9418dbd72" ;
+        <http://purl.org/dc/terms/title>
+                "Infection specialist input - Micro/ID approved" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/1d97147d-a827-43c5-ad84-f4ab16612084>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -630,7 +644,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "7d7af1bc-6b39-4d1c-983d-0e3cdb2c1e5d" .
+                "7d7af1bc-6b39-4d1c-983d-0e3cdb2c1e5d" ;
+        <http://purl.org/dc/terms/title>
+                "Duration - Duration Appropriate" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/671194e3-03ce-42a6-a405-daafb2bfa329>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -658,7 +674,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "ea1503f7-22c2-4b80-98f4-c25b0b5eaffd" .
+                "ea1503f7-22c2-4b80-98f4-c25b0b5eaffd" ;
+        <http://purl.org/dc/terms/title>
+                "Route of admin - Route:  (IV or PO)" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/62218122-9247-4b56-8280-2271b2c0f7bd>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -699,7 +717,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "2b39397b-6b91-45b1-b5ef-33bf1ae6cc40" .
+                "2b39397b-6b91-45b1-b5ef-33bf1ae6cc40" ;
+        <http://purl.org/dc/terms/title>
+                "Annual Point Prevalence Survey (PPS) reported externally to HPSC (Group of measures) - Antimicrobial Point Prevalence for the hospital;" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/009a5335-44a2-419e-86bb-bf68ad86f269>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -732,7 +752,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "6d92dd0b-8cd4-4b13-bdfb-dfd609f06dd1" .
+                "6d92dd0b-8cd4-4b13-bdfb-dfd609f06dd1" ;
+        <http://purl.org/dc/terms/title>
+                "Indication - Indication documented" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/c32c5ead-38fd-4032-9f13-2035058c7b29>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -773,7 +795,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "47213b33-68fa-4bdd-9b99-4ecd913ced80" .
+                "47213b33-68fa-4bdd-9b99-4ecd913ced80" ;
+        <http://purl.org/dc/terms/title>
+                "Patient demographics - Demographics" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/88042277-c097-43a2-8f28-fa16fd46eeb4>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -786,7 +810,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative and qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "88042277-c097-43a2-8f28-fa16fd46eeb4" .
+                "88042277-c097-43a2-8f28-fa16fd46eeb4" ;
+        <http://purl.org/dc/terms/title>
+                "Allergy prevalence - Allergy status of the patient" .
 
 <https://openark.adaptcentre.ie/PCHCAIMetricsAndDataStreams>
         a       <http://www.w3.org/ns/dcat#Catalog> ;
@@ -894,7 +920,7 @@
         <http://purl.org/dc/terms/identifier>
                 "36538a5d-7e84-480a-978c-c379a22980a0" ;
         <http://purl.org/dc/terms/title>
-                "SAureus infections - Central Line" .
+                "S. aureus infections - Central Line" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/61cbfa00-1133-4950-a6ac-8f9649b7b744>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -922,7 +948,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "847d6f29-2a7c-4998-9ad3-fc373ebb1abb" .
+                "847d6f29-2a7c-4998-9ad3-fc373ebb1abb" ;
+        <http://purl.org/dc/terms/title>
+                "Diagnostic samples sent to lab - Cultures Sent" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/4094f335-27f8-4db7-80b7-f5fe40427a51>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -983,7 +1011,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "783912be-417d-41ac-9331-900d89551e2e" .
+                "783912be-417d-41ac-9331-900d89551e2e" ;
+        <http://purl.org/dc/terms/title>
+                "Appropriate antimicobial prescription - Adherence to local guidance or deemed appropraite by AMS team" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/c25fdfb9-d17f-4610-9f7e-5ac4587a197d>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1037,7 +1067,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "886b8a7c-3192-49ed-b162-29bc16519049" .
+                "886b8a7c-3192-49ed-b162-29bc16519049" ;
+        <http://purl.org/dc/terms/title>
+                "Day of therapy at point of review - Day of therapy (Duration of the drug)" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/17df74fb-d521-4a45-ad00-5701de082718>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1107,7 +1139,9 @@
         <http://purl.org/dc/terms/format>
                 "Qualitative" ;
         <http://purl.org/dc/terms/identifier>
-                "6ebf1720-08a1-403d-8837-309b0b560824" .
+                "6ebf1720-08a1-403d-8837-309b0b560824" ;
+        <http://purl.org/dc/terms/title>
+                "No of patient that are suitable for oral antimicrobials switch from IV - IV antimicrobials suitable for PO switch" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/fe3aa1f4-61f5-47d0-bb73-b6b90f07aeba>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1140,7 +1174,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "487e56f5-2541-4b92-a393-9cfe07e661ea" .
+                "487e56f5-2541-4b92-a393-9cfe07e661ea" ;
+        <http://purl.org/dc/terms/title>
+                "Hospital Antimicrobial Consumption (calculated using the WHO DDD/100 BDUs) -  ICU consumption as measured from the ICCA administration system - monitor year on year:" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/84e9b66d-1d63-4155-a3e5-2232f1f38ef9>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1205,7 +1241,7 @@
         <http://purl.org/dc/terms/identifier>
                 "7edec55e-99cd-46a1-91a3-a566c9965e6b" ;
         <http://purl.org/dc/terms/title>
-                "SAureus infections- Peripheral Line" .
+                "S. aureus infections- Peripheral Line" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/40931892-01f7-4a7e-bb00-72c06e44d7e4>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1307,7 +1343,9 @@
         <http://purl.org/dc/terms/format>
                 "Quantitative" ;
         <http://purl.org/dc/terms/identifier>
-                "1ef1c37e-2cca-4130-b26a-e1f81e38bd60" .
+                "1ef1c37e-2cca-4130-b26a-e1f81e38bd60" ;
+        <http://purl.org/dc/terms/title>
+                "Hospital Antimicrobial Consumption (calculated using the WHO DDD/100 BDUs) -  Consumption as measured from EPR administration data- monitor year on year" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/678b8d75-07c5-4852-9906-b932a9892249>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
@@ -1391,7 +1429,9 @@
         <http://purl.org/dc/terms/format>
                 "rate" ;
         <http://purl.org/dc/terms/identifier>
-                "4f5f421d-29ea-4df5-b905-22b306c96167" .
+                "4f5f421d-29ea-4df5-b905-22b306c96167" ;
+        <http://purl.org/dc/terms/title>
+                "S. aureus infections - Central Line" .
 
 <https://openark.adaptcentre.ie/ARKEvidence/dataset/8d74da47-722b-4584-8ffc-7c4df2086649>
         a       <http://www.w3.org/ns/dcat#Dataset> ;
