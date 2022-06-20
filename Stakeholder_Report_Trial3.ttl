@@ -1,0 +1,189 @@
+@prefix arkc: <https://openark.adaptcentre.ie/Ontologies/ARKCube#>.
+@prefix arkp: <https://openark.adaptcentre.ie/Ontologies/ARKPlatform#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix prov: <http://www.w3.org/TR/prov-o/>.
+@prefix ark_risk_terms: <https://openark.adaptcentre.ie/Ontologies/ARKRiskTerminology#>.
+@prefix ark_health_terms: <https://openark.adaptcentre.ie/Ontologies/ARKHealthTerminology#>.
+@prefix air_terms: <https://openark.adaptcentre.ie/Ontologies/HAdvIncCats#>.
+@prefix ark_organisation: <https://openark.adaptcentre.ie/Ontologies/ARKOrganisation#>.
+@prefix ark_platform_terms: <https://openark.adaptcentre.ie/Ontologies/ARKPlatformTerminology#>.
+
+<https://openark.adaptcentre.ie/api/outcome/03d376a2-6266-4410-80be-2f79c54dce92> a arkc:Outcome;
+    arkc:hasStage arkc:ProblemStage;
+    arkc:textualDescription "The ARK platform has been partially implemented to address the IPC problems identified in each organisation via the mechanisms outlined below, but negative impacts on health outcomes and service delivery have not been demonstrably mitigated. A solution is needed to map and improve data gathered relating to PCHCAI (O1) and to increase PPE compliance (O2 and O3). ";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/outcome/428b2de9-52c7-4090-af1c-5198a15ea807> a arkc:Outcome;
+    arkc:hasStage arkc:SolutionStage;
+    arkc:textualDescription "The solution should lead to improved health outcomes for staff and patients in each of the organisations. In parallel, the usability and effectiveness of the ARK platform will be improved. \n";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/outcome/e9c78bd0-e04d-4bd9-8077-fe4801e5263c> a arkc:Outcome;
+    arkc:hasStage arkc:PlanPrepareStage;
+    arkc:textualDescription "Generate sharable data and knowledge about COVID-19 IPC and related programmes.\nDevelop initial lessons learned and guidance on the implementation of programmes on infection control.\nEvaluate implementation of an enhanced version of the ARK platform. \nOrganisations involve the internal stakeholders relevant to implementation of their specific IPC intervention. \nSustain CoP as a forum for learning and sharing experience.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/outcome/378db060-f432-4afa-a872-d7e7be94f669> a arkc:Outcome;
+    arkc:hasStage arkc:ImplementStage;
+    arkc:textualDescription "\nThe new version of the ARK platform was successfully deployed in the two organisations, and remains partially deployed in the third. The CoP was further developed surrounding PPE for COVID 19 IPC and technology-supported mindful risk governance. Generation of evidence for new data governance, privacy, and analytics models and tools. In O1, increased oversight of PCHCAI data and presentation of an integrated dataset to relevant internal stakeholders, leading to increased support. Favourable health outcomes noted in O2 - increased compliance, decreased on-station transmission. Both organisations noted improvements in understanding of risk governance, in particular the social and cultural aspects of implementing IPC risk mitigation measures and the necessity to leverage both implicit and explicit knowledge in support of organisational change projects. ";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/outcome/2c6dccab-cce1-471d-a969-8a6507fdb7a8> a arkc:Outcome;
+    arkc:hasStage arkc:VerifyEmbedStage;
+    arkc:textualDescription "Areas for improvement within the current IPC risk management system were identified, which fed into the guidance document \"Practical Guidance on Implementing Infection Prevention and Control During Emergencies\". \nARK's usability and usefulness were improved over the course of the trial as according to metrics and feedback collected from users.\nMechanism deployed for moving from highly confidential information to sharing of data within a CoP, which can in the future be extended to the national level.\n\n";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/mechanism/457d2186-68fd-4780-9b81-a873e11a3e1b> a arkc:Mechanism;
+    arkc:hasStage arkc:ProblemStage;
+    arkc:textualDescription "It is difficult to sustain highly effective IPC practice for the following reasons:\n(1) Organisations are not fully able to monitor and influence behaviour - systems and processes that support people to act in a certain way could be improved. \n(2) There is a large amount of data that is not being deployed in a timely way due to siloed information systems for different hospitals or providers and a lack of infrastructure for rapid data sharing between organisations. \n(3) Need to merge structured operational data and semi-unstructured risk management data. \n(4) There is a lack of common systematic approaches to risk management for all PPE users.\n(5) Lack of support for risk governance capable of analysing a dynamic and complex reality, anticipating potential failure and building resilience against it. \n(6) Difficulty in transforming data insights into relevant risk information for people on the ground and sharing this information with them in a timely way. ";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/mechanism/ea8db254-62dd-4669-ba7f-89250cccc46a> a arkc:Mechanism;
+    arkc:hasStage arkc:SolutionStage;
+    arkc:textualDescription "ARK will be deployed in each organisation to analyse the IPC problems and identify mitigation measures. In O1, this involves improving the monitoring, oversight, and continuous improvement of data relating to PCHCAI by creating a data governance map; in O2 and O3 it involves reinforcing IPC control measures for COVID-19 PPE compliance through enhanced communication and supervision. ";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/mechanism/d20f2e67-5fa1-4c3e-918b-2f3d5586157e> a arkc:Mechanism;
+    arkc:hasStage arkc:PlanPrepareStage;
+    arkc:textualDescription "The plan for implementation is to deploy the new version of the ARK platform within two of the collaborating organisations. Individualised and group (CoP) support will be provided, with accessible feedback channels so that bugs or other concerns can be addressed in real time. There is a focus on increasing the amount of evidence uploaded and use of the evidence linking feature, as this supports higher-level governance of the identified risks. Key mechanisms for IPC risk were identified, including the lack of unified data management technologies/systems in O1 and need for social support areas (break rooms, etc) combined with pre-existing staffing issues in O2. O1 will use ARK to complete a project on the data mapping intervention; O2, on the PPE compliance intervention. In O3, data gathering continues to be supported and the user base kept informed so that progress can continue at a later date.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/mechanism/68c3f918-01ce-4201-b33c-3fa7f34585ec> a arkc:Mechanism;
+    arkc:hasStage arkc:ImplementStage;
+    arkc:textualDescription "An improved version of the ARK platform was deployed in support of the two IPC interventions. Several research activities were also conducted: weekly CoP sessions, individual user support sessions, and plenary meetings. Feedback was collected from the CoP via a questionnaire and focus group discussion; this qualitative feedback was supplemented by metrics on usability, usefulness, and trust.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/mechanism/25ef068f-223e-411e-9f5e-1a966be14d33> a arkc:Mechanism;
+    arkc:hasStage arkc:VerifyEmbedStage;
+    arkc:textualDescription "At the end of Trial 3 another round of evaluation was conducted which included questionnaires, exploring the Lessons Learned from the CoP and from the ARK-Virus Project, the System Usability Scale and the Impact of the ARK Platform on IPC, and also a focus group feedback workshop. Additionally, a stakeholder meeting (and report) was planned, leading into an assessment of how well the platform was deployed and its usefulness to the organisation. Production of a report with IPC/risk management findings verifies the usefulness of the ARK platform.\n";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/context/99d344da-f6aa-46c8-b4e0-b50009dac81a> a arkc:Context;
+    arkc:hasStage arkc:ProblemStage;
+    arkc:textualDescription "\nIt is difficult to sustain good practice in IPC and to transfer that across the healthcare system. This issue was explored through the case study of IPC in three different healthcare organisations (O1, O2, and O3) in the context of the COVID-19 pandemic. Each organisation selected a key IPC issue to explore: O1 focused on data infrastructure relating to IPC generally, while O2 and O3 focused on PPE compliance for reduction of on-site transmission of COVID-19. \n\nThe organisations participated in the ARK-virus project, which deployed the ARK platform for mindful risk governance in a CoP to address key IPC conerns. Trials 1 and 2 focused heavily on internal functioning of the platform and identification of the problem of interest, while Trial 3 (covered in this report) dealt with the first full implmentation of ARK as a strategy to address the identified problem. The core mechanism for improving risk management capacity in each of the organisations is to integrate a mindful risk governance approach, supported by ARK, into the existing risk management infrastructure. \n";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/context/b5775cfb-8a78-4e14-aeb5-d27af70545ec> a arkc:Context;
+    arkc:hasStage arkc:SolutionStage;
+    arkc:textualDescription "Unchanged from Problem Stage.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/context/14d842b3-170d-4160-9aee-a1a119cbf751> a arkc:Context;
+    arkc:hasStage arkc:PlanPrepareStage;
+    arkc:textualDescription "Significantly decreased engagement from the third organisation due to time constraints. O3 has users from operations, while O1 and O2 users are health and safety experts with protected time for engaging with the platform. Otherwise unchanged from solution.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/context/a68f5e40-2afc-468e-8363-af51bd5810ad> a arkc:Context;
+    arkc:hasStage arkc:ImplementStage;
+    arkc:textualDescription "Unchanged from plan.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/context/2f828c7c-d78b-409a-9e83-94fa611e6a03> a arkc:Context;
+    arkc:hasStage arkc:VerifyEmbedStage;
+    arkc:textualDescription "Over the course of the ARK-Virus Project the Community of Practice (CoP) have evaluated the usability and the usefulness of the platform as well as the impact of CoP and the ARK Platform on their organisation's IPC risk management processes. Following conclusion of the individual projects in each organisation, there was a need to synthesise findings and determine learnings for ARK, risk governance, and the specific IPC issue addressed.";
+    arkp:date "2022-06-13T15:11:58.997Z".
+<https://openark.adaptcentre.ie/api/reports/c5fa003a-eda8-4339-b2d2-5e5181a8ff37> a arkc:FinalReport;
+    arkc:hasContext <https://openark.adaptcentre.ie/api/context/99d344da-f6aa-46c8-b4e0-b50009dac81a>, <https://openark.adaptcentre.ie/api/context/b5775cfb-8a78-4e14-aeb5-d27af70545ec>, <https://openark.adaptcentre.ie/api/context/14d842b3-170d-4160-9aee-a1a119cbf751>, <https://openark.adaptcentre.ie/api/context/a68f5e40-2afc-468e-8363-af51bd5810ad>, <https://openark.adaptcentre.ie/api/context/2f828c7c-d78b-409a-9e83-94fa611e6a03>;
+    arkc:hasMechanism <https://openark.adaptcentre.ie/api/mechanism/457d2186-68fd-4780-9b81-a873e11a3e1b>, <https://openark.adaptcentre.ie/api/mechanism/ea8db254-62dd-4669-ba7f-89250cccc46a>, <https://openark.adaptcentre.ie/api/mechanism/d20f2e67-5fa1-4c3e-918b-2f3d5586157e>, <https://openark.adaptcentre.ie/api/mechanism/68c3f918-01ce-4201-b33c-3fa7f34585ec>, <https://openark.adaptcentre.ie/api/mechanism/25ef068f-223e-411e-9f5e-1a966be14d33>;
+    arkc:hasOutcome <https://openark.adaptcentre.ie/api/outcome/03d376a2-6266-4410-80be-2f79c54dce92>, <https://openark.adaptcentre.ie/api/outcome/428b2de9-52c7-4090-af1c-5198a15ea807>, <https://openark.adaptcentre.ie/api/outcome/e9c78bd0-e04d-4bd9-8077-fe4801e5263c>, <https://openark.adaptcentre.ie/api/outcome/378db060-f432-4afa-a872-d7e7be94f669>, <https://openark.adaptcentre.ie/api/outcome/2c6dccab-cce1-471d-a969-8a6507fdb7a8>;
+    arkc:hasRelatedConcept ark_health_terms:PersonalProtectiveEquipment, ark_health_terms:InfectionPreventionAndControl, ark_health_terms:RiskManagement, ark_health_terms:Staff, ark_health_terms:Governance, ark_health_terms:Healthcare, ark_risk_terms:DataInfoKnowledgeCycle, ark_health_terms:HealthcareAssociatedInfection, ark_health_terms:Patient, ark_health_terms:Outcomes, ark_platform_terms:SocioTechnicalSystemsAnalysis, ark_platform_terms:SocioTechnicalSystems, ark_risk_terms:Reporting, ark_risk_terms:Feedforward;
+    arkc:name "ARK-Virus Meta-Analysis Project Final Report - Public";
+    arkp:hasOwner <https://openark.adaptcentre.ie/users/ark_20210107_203919_U52>;
+    arkc:hasEvidence <https://openark.adaptcentre.ie/api/evidence/d8928e5e-132d-4b20-8704-675dfc4b32a4>, <https://openark.adaptcentre.ie/api/evidence/17faf2bb-f26a-4a5b-bc82-ebe5da294da8>;
+    arkp:hasOwningOrganisation arkc:DublinCityUniversity;
+    arkc:hasDataClassification arkp:Public;
+    arkc:date "Mon Jun 13 2022";
+    arkc:hasDistribution "OpenArk Webpage";
+    arkc:usesDataFrom <https://openark.adaptcentre.ie/api/evidence/7dd72a98-1375-47de-87dc-5e024f8ca732>, <https://openark.adaptcentre.ie/api/evidence/ce25d20d-b7dd-47db-adca-d851d18b8c2f>, <https://openark.adaptcentre.ie/api/evidence/9dd5be43-bb4c-4fea-82fa-ce353861e519>, <https://openark.adaptcentre.ie/api/evidence/98fecaa7-efa4-4e6e-a1a5-18596e0ddb96>;
+    arkc:obtainsSupportFrom <https://openark.adaptcentre.ie/api/evidence/8f82aea3-0b35-4c21-ba4b-acfb40e4f702>, <https://openark.adaptcentre.ie/api/evidence/cefb9799-04f5-4872-87a1-fcd62ba244f8>, <https://openark.adaptcentre.ie/api/evidence/5cedd95e-da77-411c-94bd-a372e02517fb>.
+<https://openark.adaptcentre.ie/api/projects/a0a0cad8-b990-4fdd-a9a9-c1a7d26e00bc> dcterms:created "2022-05-03T10:12:40.793Z";
+    a arkc:Project;
+    arkc:name "ARK-Virus Meta-Analysis Project";
+    arkp:hasOwner <https://openark.adaptcentre.ie/users/ark_20200501_1611_U12>, <https://openark.adaptcentre.ie/users/ark_20200423_1127_U8>, <https://openark.adaptcentre.ie/users/ark_20210107_203919_U52>, <https://openark.adaptcentre.ie/users/ark_20210309_165335_U54>, <https://openark.adaptcentre.ie/users/ark_20210315_135318_U56>, <https://openark.adaptcentre.ie/users/d82f76f4-de00-4ec6-9a7e-9b156f5b63d0>;
+    arkp:hasCollaborator <https://openark.adaptcentre.ie/users/ark_20200501_1611_U12>, <https://openark.adaptcentre.ie/users/ark_20200423_1127_U8>, <https://openark.adaptcentre.ie/users/ark_20210309_165335_U54>, <https://openark.adaptcentre.ie/users/ark_20210315_135318_U56>, <https://openark.adaptcentre.ie/users/d82f76f4-de00-4ec6-9a7e-9b156f5b63d0>;
+    arkp:hasOwningOrganisation arkc:DublinCityUniversity;
+    arkp:hasDataClassification arkp:Public;
+    arkc:hasProjectDescription <https://openark.adaptcentre.ie/api/project-description/ec3de08a-7762-4320-b12b-bfce10b7076f>;
+    arkc:hasReport <https://openark.adaptcentre.ie/api/reports/a15567f1-5035-41e3-b45e-8bb3fd2a183a>, <https://openark.adaptcentre.ie/api/reports/9decaa02-f02f-4355-adda-811656bc77b1>, <https://openark.adaptcentre.ie/api/reports/0abc4a4f-8ef6-4077-a95f-7344b04c9373>, <https://openark.adaptcentre.ie/api/reports/178ec804-1b74-4fe1-8477-f69c49dd4b64>, <https://openark.adaptcentre.ie/api/reports/c5fa003a-eda8-4339-b2d2-5e5181a8ff37>;
+    arkc:hasSubProject <https://openark.adaptcentre.ie/api/projects/989123b4-c8b0-4e3b-9113-afb8ccd7deb6>, <https://openark.adaptcentre.ie/api/projects/dece7a6d-a800-4b5b-bdec-907b943c5171>.
+<https://openark.adaptcentre.ie/api/projects/989123b4-c8b0-4e3b-9113-afb8ccd7deb6> a arkc:Project;
+    arkc:name "Mitigation of Close Contact Risk at Station Level in DFB during Covid 19 wave four (Omicron)".
+<https://openark.adaptcentre.ie/api/projects/dece7a6d-a800-4b5b-bdec-907b943c5171> a arkc:Project;
+    arkc:name "PCHCAI Data Governance";
+    arkc:hasSubProject <https://openark.adaptcentre.ie/api/projects/c06a69e4-19e7-47a4-be58-d8f3efc0f485>, <https://openark.adaptcentre.ie/api/projects/7a6ead5c-f5f4-4fb8-850a-80c441b7c6e8>, <https://openark.adaptcentre.ie/api/projects/9c7b3bc4-d8ab-46ce-bb25-ac37f67a9e0b>, <https://openark.adaptcentre.ie/api/projects/2cc5dbd8-d796-4568-812b-714be6526f4d>, <https://openark.adaptcentre.ie/api/projects/7db79e72-95ac-420f-b001-4d588f541d4c>, <https://openark.adaptcentre.ie/api/projects/dc3d7d84-ea62-41f3-9884-987d558dca17>, <https://openark.adaptcentre.ie/api/projects/e1a3ec2b-70a5-4767-996b-99892443cf8b>, <https://openark.adaptcentre.ie/api/projects/e4224212-9188-4e6a-b30d-7621ac16ba13>, <https://openark.adaptcentre.ie/api/projects/b9fba0be-2faf-41c3-8349-168028a15f8d>, <https://openark.adaptcentre.ie/api/projects/bcf38ff2-a0a8-4d83-884e-8e7fb1309439>, <https://openark.adaptcentre.ie/api/projects/9d36f5f5-88fe-4b6b-ada4-26df9c02a935>, <https://openark.adaptcentre.ie/api/projects/ba23f372-a07c-4bcf-aabd-295da668611e>, <https://openark.adaptcentre.ie/api/projects/226ecc9a-f6aa-4e2c-a5fa-fc663a0e85bf>, <https://openark.adaptcentre.ie/api/projects/6f5c9f36-7d7a-4cf4-98d8-c1e250ed8413>, <https://openark.adaptcentre.ie/api/projects/3e3aac39-a7e7-4a29-9f25-ed0b28d69fe6>, <https://openark.adaptcentre.ie/api/projects/ef2acadc-9603-49b3-8dda-8f9505fe0e3e>, <https://openark.adaptcentre.ie/api/projects/f717b847-2faf-4ba9-8a82-edcb71a673e4>, <https://openark.adaptcentre.ie/api/projects/46f66601-ac07-47ea-8cc7-a3283248e199>, <https://openark.adaptcentre.ie/api/projects/b1c6b326-299b-4719-8e33-cec329162cbf>.
+<https://openark.adaptcentre.ie/api/project-description/ec3de08a-7762-4320-b12b-bfce10b7076f> a arkc:ProjectDescription;
+    arkc:textualDescription "A meta-analysis of Trial 3 of the ARK-Virus Project.";
+    arkc:hasRelatedConcept ark_health_terms:PersonalProtectiveEquipment, ark_health_terms:InfectionPreventionAndControl, ark_health_terms:RiskManagement, ark_health_terms:Staff, ark_health_terms:Governance, ark_health_terms:Healthcare, ark_risk_terms:DataInfoKnowledgeCycle, ark_health_terms:HealthcareAssociatedInfection, ark_health_terms:Patient, ark_health_terms:Outcomes, ark_platform_terms:SocioTechnicalSystemsAnalysis, ark_platform_terms:SocioTechnicalSystems, ark_risk_terms:Reporting, ark_risk_terms:Feedforward;
+    arkc:date "2022-05-16T12:50:02.447Z";
+    arkc:answeredBy <https://openark.adaptcentre.ie/users/ark_20210107_203919_U52>.
+<https://openark.adaptcentre.ie/users/ark_20200501_1611_U12> a arkp:User;
+    arkp:username "Nick";
+    arkc:name "Nick McDonald".
+<https://openark.adaptcentre.ie/users/ark_20200423_1127_U8> a arkp:User, arkp:AdminUser;
+    arkp:username "rob";
+    arkc:name "Rob Brennan".
+<https://openark.adaptcentre.ie/users/ark_20210107_203919_U52> a arkp:User, arkp:AdminUser;
+    arkp:username "LucyMcKenna";
+    arkc:name "Lucy McKenna".
+<https://openark.adaptcentre.ie/users/ark_20210309_165335_U54> a arkp:User;
+    arkp:username "BrianDoyle";
+    arkc:name "Brian Doyle".
+<https://openark.adaptcentre.ie/users/ark_20210315_135318_U56> a arkp:User;
+    arkp:username "rvining";
+    arkc:name "Rebecca Vining".
+<https://openark.adaptcentre.ie/users/d82f76f4-de00-4ec6-9a7e-9b156f5b63d0> a arkp:User;
+    arkp:username "marie_ward";
+    arkc:name "Marie Ward".
+<https://openark.adaptcentre.ie/users/ark_20200501_1611_U12> a arkp:User;
+    arkp:username "Nick";
+    arkc:name "Nick McDonald".
+<https://openark.adaptcentre.ie/users/ark_20200423_1127_U8> a arkp:User, arkp:AdminUser;
+    arkp:username "rob";
+    arkc:name "Rob Brennan".
+<https://openark.adaptcentre.ie/users/ark_20210309_165335_U54> a arkp:User;
+    arkp:username "BrianDoyle";
+    arkc:name "Brian Doyle".
+<https://openark.adaptcentre.ie/users/ark_20210315_135318_U56> a arkp:User;
+    arkp:username "rvining";
+    arkc:name "Rebecca Vining".
+<https://openark.adaptcentre.ie/users/d82f76f4-de00-4ec6-9a7e-9b156f5b63d0> a arkp:User;
+    arkp:username "marie_ward";
+    arkc:name "Marie Ward".
+<https://openark.adaptcentre.ie/users/ark_20210107_203919_U52> a arkp:User, arkp:AdminUser;
+    arkp:username "LucyMcKenna";
+    arkc:name "Lucy McKenna".
+<https://openark.adaptcentre.ie/api/evidence/d8928e5e-132d-4b20-8704-675dfc4b32a4> a arkc:Evidence;
+    arkc:hasArtefact <https://doi.org/10.1145/3442442.3458609>;
+    arkc:evidenceText "This demo paper describes the ARK Platform and the ARK-Virus Project.";
+    arkc:validFrom "2022-05-11T23:34:27.969Z";
+    arkc:validTo "2022-05-11T23:34:27.969Z".
+<https://openark.adaptcentre.ie/api/evidence/17faf2bb-f26a-4a5b-bc82-ebe5da294da8> a arkc:Evidence;
+    arkc:hasArtefact <http://ceur-ws.org/Vol-2807/paperM.pdf>;
+    arkc:evidenceText "This paper describes the ARK Platform, the CUBE ontology and the ARK taxonomies.";
+    arkc:validFrom "2022-05-11T23:40:44.796Z";
+    arkc:validTo "2022-05-11T23:40:44.796Z".
+<https://openark.adaptcentre.ie/api/evidence/7dd72a98-1375-47de-87dc-5e024f8ca732> a arkc:Evidence;
+    arkc:hasArtefact <https://doi.org/10.3390/ijerph182312572>;
+    arkc:evidenceText "Provides data from the Trial 1 evaluation of the ARK Platform.";
+    arkc:validFrom "2022-05-11T23:22:51.669Z";
+    arkc:validTo "2022-05-11T23:22:51.669Z".
+<https://openark.adaptcentre.ie/api/evidence/ce25d20d-b7dd-47db-adca-d851d18b8c2f> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/68b3a12d-d63d-49da-bb42-512930a50270>;
+    arkc:evidenceText "Trial 3 Questionnaire data";
+    arkc:validFrom "2022-05-12T00:33:47.499Z";
+    arkc:validTo "2022-05-12T00:33:47.499Z".
+<https://openark.adaptcentre.ie/api/evidence/9dd5be43-bb4c-4fea-82fa-ce353861e519> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/e7bcdd3e-82b0-4593-92fe-61108f448d83>;
+    arkc:evidenceText "ARK-Virus Trial 2 Questionnaire data";
+    arkc:validFrom "2022-05-12T00:34:42.732Z";
+    arkc:validTo "2022-05-12T00:34:42.732Z".
+<https://openark.adaptcentre.ie/api/evidence/98fecaa7-efa4-4e6e-a1a5-18596e0ddb96> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/24a5c300-1364-47af-a28c-d44042778c2f>;
+    arkc:evidenceText "ARK-Virus Trial 1 Questionnaire data";
+    arkc:validFrom "2022-05-12T00:35:41.234Z";
+    arkc:validTo "2022-05-12T00:35:41.234Z".
+<https://openark.adaptcentre.ie/api/evidence/8f82aea3-0b35-4c21-ba4b-acfb40e4f702> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/24a5c300-1364-47af-a28c-d44042778c2f>;
+    arkc:evidenceText "Trial 3 user evaluation data";
+    arkc:validFrom "2022-05-12T09:24:12.431Z";
+    arkc:validTo "2022-05-12T09:24:12.431Z".
+<https://openark.adaptcentre.ie/api/evidence/cefb9799-04f5-4872-87a1-fcd62ba244f8> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/e7bcdd3e-82b0-4593-92fe-61108f448d83>;
+    arkc:evidenceText "Trial 2 user evaluation data";
+    arkc:validFrom "2022-05-12T09:25:12.263Z";
+    arkc:validTo "2022-05-12T09:25:12.263Z".
+<https://openark.adaptcentre.ie/api/evidence/5cedd95e-da77-411c-94bd-a372e02517fb> a arkc:Evidence;
+    arkc:hasArtefact <https://openark.adaptcentre.ie/ARKEvidence/dataset/24a5c300-1364-47af-a28c-d44042778c2f>;
+    arkc:evidenceText "Trial 1 user evaluation data";
+    arkc:validFrom "2022-05-12T09:25:59.281Z";
+    arkc:validTo "2022-05-12T09:25:59.281Z".
