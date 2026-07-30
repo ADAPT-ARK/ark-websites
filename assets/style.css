@@ -1,0 +1,335 @@
+/* ARK design system — shared across index.html and ark-home.html */
+
+:root {
+	--brand: #0d9488;
+	--brand-dark: #0f766e;
+	--brand-light: #2dd4bf;
+	--brand-ink: #ffffff;
+	--ink: #0f172a;
+	--muted: #52606d;
+	--surface: #ffffff;
+	--surface-alt: #f1f5f9;
+	--border: #e2e8f0;
+	--shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.08);
+	--shadow-lg: 0 20px 40px -16px rgba(15, 23, 42, 0.25);
+	--radius: 18px;
+	--radius-sm: 12px;
+}
+
+body {
+	font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	color: var(--ink);
+	background: var(--surface-alt);
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* ---------- Navbar ---------- */
+.navbar-ark {
+	background: rgba(255, 255, 255, 0.85);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	border-bottom: 1px solid var(--border);
+}
+
+.navbar-ark .navbar-brand {
+	display: flex;
+	align-items: center;
+	gap: 0.6rem;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+	color: var(--ink);
+}
+
+.navbar-ark .brand-mark {
+	width: 30px;
+	height: 30px;
+	border-radius: 9px;
+	background: linear-gradient(135deg, var(--brand-light), var(--brand-dark));
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 0.85rem;
+	font-weight: 800;
+}
+
+.navbar-ark .nav-link {
+	color: var(--muted);
+	font-weight: 500;
+	font-size: 0.92rem;
+}
+
+.navbar-ark .nav-link:hover,
+.navbar-ark .nav-link.active {
+	color: var(--brand-dark);
+}
+
+/* ---------- Hero ---------- */
+.hero {
+	position: relative;
+	overflow: hidden;
+	background: radial-gradient(circle at 15% 20%, var(--brand-light), transparent 45%),
+		radial-gradient(circle at 85% 0%, #38bdf8, transparent 40%),
+		linear-gradient(160deg, var(--brand-dark), var(--ink));
+	color: #fff;
+	padding: 5.5rem 0 4.5rem;
+}
+
+.hero .eyebrow {
+	text-transform: uppercase;
+	letter-spacing: 0.14em;
+	font-size: 0.78rem;
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.75);
+}
+
+.hero h1 {
+	font-weight: 800;
+	letter-spacing: -0.02em;
+	font-size: clamp(2.1rem, 4vw, 3.2rem);
+}
+
+.hero p.lead {
+	color: rgba(255, 255, 255, 0.85);
+	max-width: 46rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* ---------- Section headers ---------- */
+.section-eyebrow {
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-size: 0.78rem;
+	font-weight: 700;
+	color: var(--brand-dark);
+}
+
+.section-title {
+	font-weight: 800;
+	letter-spacing: -0.02em;
+}
+
+.section-lead {
+	color: var(--muted);
+	max-width: 48rem;
+}
+
+section.section-alt {
+	background: var(--surface);
+}
+
+/* ---------- Cards ---------- */
+.card-modern {
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	box-shadow: var(--shadow-sm);
+	transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+	height: 100%;
+}
+
+.card-modern:hover {
+	transform: translateY(-4px);
+	box-shadow: var(--shadow-lg);
+	border-color: var(--brand-light);
+}
+
+.icon-badge {
+	width: 44px;
+	height: 44px;
+	border-radius: 12px;
+	background: rgba(13, 148, 136, 0.1);
+	color: var(--brand-dark);
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.15rem;
+	flex-shrink: 0;
+}
+
+/* Link card (used for ontology grid + hub page) */
+.link-card {
+	display: flex;
+	align-items: flex-start;
+	gap: 1rem;
+	padding: 1.35rem;
+	color: var(--ink);
+}
+
+.link-card .arrow {
+	margin-left: auto;
+	color: var(--muted);
+	transition: transform 0.18s ease, color 0.18s ease;
+}
+
+.link-card:hover .arrow {
+	transform: translateX(4px);
+	color: var(--brand-dark);
+}
+
+.link-card .link-title {
+	font-weight: 700;
+	margin-bottom: 0.2rem;
+}
+
+.link-card .link-desc {
+	color: var(--muted);
+	font-size: 0.92rem;
+	margin-bottom: 0;
+}
+
+/* ---------- Buttons ---------- */
+.btn-brand {
+	background: var(--brand);
+	border: none;
+	color: #fff;
+	font-weight: 600;
+	padding: 0.65rem 1.4rem;
+	border-radius: 999px;
+	transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.btn-brand:hover {
+	background: var(--brand-dark);
+	color: #fff;
+	transform: translateY(-1px);
+}
+
+.btn-outline-brand {
+	border: 1.5px solid rgba(255, 255, 255, 0.5);
+	color: #fff;
+	font-weight: 600;
+	padding: 0.6rem 1.35rem;
+	border-radius: 999px;
+	transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.btn-outline-brand:hover {
+	background: rgba(255, 255, 255, 0.12);
+	border-color: #fff;
+	color: #fff;
+}
+
+/* ---------- People ---------- */
+.people-group .people-group-title {
+	font-weight: 700;
+	font-size: 0.8rem;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--brand-dark);
+	margin-bottom: 0.75rem;
+}
+
+.people-group ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.people-group li {
+	padding: 0.3rem 0;
+	color: var(--ink);
+	font-size: 0.95rem;
+	border-bottom: 1px dashed var(--border);
+}
+
+.people-group li:last-child {
+	border-bottom: none;
+}
+
+/* ---------- Accordion tweaks ---------- */
+.accordion-ark .accordion-button {
+	font-weight: 600;
+	background: var(--surface);
+}
+
+.accordion-ark .accordion-button:not(.collapsed) {
+	color: var(--brand-dark);
+	background: rgba(13, 148, 136, 0.06);
+	box-shadow: none;
+}
+
+.accordion-ark .accordion-item {
+	border-color: var(--border);
+	border-radius: var(--radius-sm) !important;
+	overflow: hidden;
+	margin-bottom: 0.75rem;
+}
+
+.accordion-ark .video-caption {
+	font-weight: 600;
+	margin-bottom: 0.75rem;
+}
+
+.ratio-video {
+	border-radius: var(--radius-sm);
+	overflow: hidden;
+	box-shadow: var(--shadow-sm);
+}
+
+/* ---------- Publications ---------- */
+.pub-item {
+	padding: 1.1rem 0;
+	border-bottom: 1px solid var(--border);
+}
+
+.pub-item:last-child {
+	border-bottom: none;
+}
+
+.pub-year {
+	display: inline-block;
+	background: rgba(13, 148, 136, 0.1);
+	color: var(--brand-dark);
+	font-weight: 700;
+	font-size: 0.78rem;
+	padding: 0.15rem 0.6rem;
+	border-radius: 999px;
+	margin-bottom: 0.4rem;
+}
+
+.pub-title {
+	font-weight: 600;
+	color: var(--ink);
+	margin-bottom: 0.3rem;
+}
+
+.pub-links a {
+	color: var(--brand-dark);
+	font-weight: 600;
+	font-size: 0.92rem;
+	margin-right: 1rem;
+}
+
+.pub-links a:hover {
+	text-decoration: underline;
+}
+
+/* ---------- Callout / CTA strips ---------- */
+.callout {
+	border-radius: var(--radius);
+	padding: 2rem;
+	border: 1px solid var(--border);
+	background: var(--surface);
+}
+
+/* ---------- Footer ---------- */
+.footer-ark {
+	background: var(--ink);
+	color: rgba(255, 255, 255, 0.7);
+	padding: 2.5rem 0;
+	font-size: 0.9rem;
+}
+
+.footer-ark a {
+	color: rgba(255, 255, 255, 0.85);
+}
+
+.footer-ark a:hover {
+	color: #fff;
+}
